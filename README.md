@@ -25,7 +25,7 @@ The encoding works as every pixel of the image requires almost 32 bits each and 
 
 An example is provided 'example/shakespeare.bmp'.
 
-![shakespeare.bmp](https://github.com/guptarohan3112/steganography/blob/main/example/shakespeare.bmp)
+![shakespeare.bmp](example/shakespeare.bmp)
 
 This image has been encoded with the entire works of Shakespeare (in the form of a .txt file) and all the data is encrypted using the password 'romeo'.
 
